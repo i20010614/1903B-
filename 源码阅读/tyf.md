@@ -1,0 +1,36 @@
+- 11.30
+- [promise，async/await](https://zhuanlan.zhihu.com/p/374952506)
+- 11.29
+- [promise，async/await](https://zhuanlan.zhihu.com/p/374952506)
+- 11.28
+- [promise，async/await](https://zhuanlan.zhihu.com/p/374952506)
+- 11.26
+- [promise，async/await](https://zhuanlan.zhihu.com/p/374952506)
+- 11.25
+- [nextTick](https://blog.csdn.net/zhouzuoluo/article/details/84752280)
+- 11.24
+- [nextTick](https://blog.csdn.net/zhouzuoluo/article/details/84752280)
+- 11.23
+- [MVVM](https://blog.csdn.net/dwfrost/article/details/85777900)
+- 11.22
+- [MVVM](https://blog.csdn.net/dwfrost/article/details/85777900) 
+- 11.19
+- [MVVM](https://blog.csdn.net/dwfrost/article/details/85777900)
+- 11.18
+-[redux-thunk](https://github1s.com/reduxjs/redux-thunk/blob/HEAD/src/types.ts) 
+- 11.17
+-[redux-thunk](https://github1s.com/reduxjs/redux-thunk/blob/HEAD/src/types.ts) 
+- 11.16
+-[promise，async/await](https://zhuanlan.zhihu.com/p/374952506)  
+- 11.15
+- [lazy](https://github1s.com/l123456789jy/Lazy)
+- 11.14
+- [MVVM](https://blog.csdn.net/dwfrost/article/details/85777900)
+- 11.12
+- [redux-thunk](https://github1s.com/reduxjs/redux-thunk/blob/v2.0.1/test/index.js)
+- 11.11
+- [手写apply](https://juejin.cn/post/6844903763585531911)
+- 11.10
+- [手写apply](https://github.com/jasonandjay/js-code/blob/master/original/call-apply.js)
+- 11.9
+- [2021-04-14--Redux源码阅读（一）](https://www.jianshu.com/p/90260e04bf7b)

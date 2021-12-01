@@ -1,0 +1,45 @@
+.tag {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .tagdetailone {
+    margin-top: 30px;
+    width: 600px;
+    min-height: 90px;
+    background-color: #fff;
+  }
+  .tagdetailtwo {
+    margin-top: 30px;
+    width: 600px;
+    height: 90px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 92px;
+  }
+  .recommend{
+      width: 100%;
+      height: 40px;
+      line-height: 36.8px;
+      border-bottom:1px solid #ccc;
+  }
+  .recommend>h2{
+      margin-left: 10px;
+  }
+  .tagdetailone>ul{
+      display: inline-block;
+      min-height: 50px;
+  }
+  .tagdetailone>ul>li{
+      min-width: 10px;
+      height: 20px;
+      float: left;
+      border:1px solid #ccc;
+      margin:5px 5px;
+      padding:5px 5px;
+      text-align: center;
+      line-height: 20px;
+  }
+  .active{
+      background:rgb(255, 0, 100);
+      color:#fff;
+  }

@@ -1,0 +1,99 @@
+h2 {
+    width: 100%;
+    height: 40px;
+    color: #fff;
+    font-size: 30px;
+}
+
+.text {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    color: #fff;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    line-height: 258px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.mask {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 25%;
+}
+
+.carousel_item {
+    width: 100%;
+    height: 35px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.empty {
+    width: 100%;
+    height: 16px;
+    background-color: var(--bg-second);
+}
+
+.carousel_box1 {
+    width: 100%;
+    height: 100%;
+    background: #ccc url("./img/1_dvRAmbILRRbAa6HIUZkvfA.jpg") no-repeat center;
+    background-size: 100%;
+}
+
+.carousel_box2 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(166, 166, 166);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    line-height: 258px;
+    text-align: center;
+    background-image: url("./img/telework-5059653_1280.jpg");
+}
+
+.carousel_box3 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(166, 166, 166);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    line-height: 258px;
+    text-align: center;
+    background-image: url("./img/internet-emerge-econ_1200x675_hero_071317.jpg");
+}
+
+.el-carousel {
+    padding: 8px;
+    position: relative;
+}
+
+.el-carousel__item h3 {
+    color: #475669;
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 300px;
+    margin: 0;
+}
+
+.el-carousel__item:nth-child(2n) {
+    background-color: #99a9bf;
+}
+
+.el-carousel__item:nth-child(2n+1) {
+    background-color: #d3dce6;
+}
+
+.carousel{
+    margin-bottom: 20px;
+    background-color: #fff;
+}
